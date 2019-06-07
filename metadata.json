@@ -4,12 +4,14 @@
 	"AutoSubscribe": true,
 	"CardClass": "HtmlTemplate",
 	"CollectionType": "useNoCollection",
-	"Connection": "ESPM",
+	"Connection": "SAPCPMobileServices",
 	"CustomType": "Template",
-	"Descriptions": [{
-		"language": "EN",
-		"text": "ESPM"
-	}],
+	"Descriptions": [
+		{
+			"language": "EN",
+			"text": "ESPM"
+		}
+	],
 	"GatekeeperConfiguration": null,
 	"GroupName": "city",
 	"HasSingleURLAddEnabled": true,
@@ -18,44 +20,52 @@
 	"Name": "ESPM",
 	"NewsEnabled": false,
 	"NotificationMessages": {
-		"Messages": [{
-			"language": "EN",
-			"notificationType": "NEW",
-			"text": "New Card for Supplier - ${ID1}"
-		}, {
-			"language": "EN",
-			"notificationType": "CHANGED",
-			"text": "Updated Card for Supplier - ${ID1}"
-		}]
+		"Messages": [
+			{
+				"language": "EN",
+				"notificationType": "NEW",
+				"text": "New Card for Supplier - ${ID1}"
+			},
+			{
+				"language": "EN",
+				"notificationType": "CHANGED",
+				"text": "Updated Card for Supplier - ${ID1}"
+			}
+		]
 	},
-	"NotificationRules": [],
+	"NotificationRules": [
+	],
 	"Parameters": {
-		"Parameters": [{
-			"Name": "staticGroup",
-			"Propagate": false,
-			"ResourceOrderNumber": 0,
-			"Value": "NonAIC",
-			"displayName": "staticGroup"
-		}, {
-			"Name": "city",
-			"Propagate": false,
-			"ResourceOrderNumber": 0,
-			"Value": "$.d.City",
-			"displayName": "city",
-			"enable": true
-		}]
+		"Parameters": [
+			{
+				"Name": "staticGroup",
+				"Propagate": false,
+				"ResourceOrderNumber": 0,
+				"Value": "NonAIC",
+				"displayName": "staticGroup"
+			},
+			{
+				"Name": "city",
+				"Propagate": false,
+				"ResourceOrderNumber": 0,
+				"Value": "$.d.City",
+				"displayName": "city",
+				"enable": true
+			}
+		]
 	},
 	"QueryReturnsEntityCollection": false,
 	"QueryURL": null,
-	"ResourceIdentifiers": [{
-		"ImagePaths": "",
-		"Order": 0,
-		"Shared": false,
-		"Uri": "/SampleServices/ESPM.svc/Suppliers('$1')?$expand=Products"
-	}],
-	"SubscribableTo": {
-		"Users": []
-	},
+	"RefreshType": "upToDate",
+	"ResourceIdentifiers": [
+		{
+			"ImagePaths": "",
+			"Order": 0,
+			"Shared": false,
+			"Uri": "/SampleServices/ESPM.svc/Suppliers('$1')?$expand=Products"
+		}
+	],
+	"SortCardsWith": null,
 	"SubscribableToValidationEnabled": false,
 	"TemplateName": "User defined template",
 	"UrlMatch": "/Suppliers/{$1}",
