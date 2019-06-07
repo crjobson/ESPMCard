@@ -1,0 +1,540 @@
+{
+	"d": {
+		"__metadata": {
+			"id": "https://mobilestg-a1a4cd8bb.hana.ondemand.com:443/SampleServices/ESPM.svc/Suppliers('100000241')",
+			"uri": "https://mobilestg-a1a4cd8bb.hana.ondemand.com:443/SampleServices/ESPM.svc/Suppliers('100000241')",
+			"type": "ESPM.Supplier"
+		},
+		"City": "Antioch, Illinois",
+		"Country": "US",
+		"EmailAddress": "viola.gains@itelo.info",
+		"HouseNumber": "143",
+		"PhoneNumber": "1029384756",
+		"PostalCode": "60002",
+		"Street": "Spring Garden Street",
+		"SupplierId": "100000241",
+		"SupplierName": "ITelO",
+		"UpdatedTimestamp": "/Date(1480522333053)/",
+		"Products": {
+			"results": [{
+				"__metadata": {
+					"id": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1066')",
+					"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1066')",
+					"type": "ESPM.Product",
+					"content_type": "application/octet-stream",
+					"media_src": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1066')/$value",
+					"edit_media": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1066')/$value"
+				},
+				"Category": "Mousepads",
+				"CategoryName": "Mousepads",
+				"CurrencyCode": "EUR",
+				"DimensionDepth": "6.0000",
+				"DimensionHeight": "0.2000",
+				"DimensionUnit": "cm",
+				"DimensionWidth": "15.0000",
+				"LongDescription": "Nice mouse pad with ITelO Logo",
+				"Name": "Mauspad",
+				"PictureUrl": "/SampleServices/ESPM.svc/resources/images/HT-1066.jpg",
+				"Price": "6.990",
+				"ProductId": "HT-1066",
+				"QuantityUnit": "EA",
+				"ShortDescription": "Nice mouse pad with ITelO Logo",
+				"SupplierId": null,
+				"UpdatedTimestamp": "/Date(1488978559046)/",
+				"Weight": "80.000",
+				"WeightUnit": "G",
+				"StockDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1066')/StockDetails"
+					}
+				},
+				"SupplierDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1066')/SupplierDetails"
+					}
+				}
+			}, {
+				"__metadata": {
+					"id": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-2001')",
+					"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-2001')",
+					"type": "ESPM.Product",
+					"content_type": "application/octet-stream",
+					"media_src": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-2001')/$value",
+					"edit_media": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-2001')/$value"
+				},
+				"Category": "Portable Players",
+				"CategoryName": "Portable Players",
+				"CurrencyCode": "EUR",
+				"DimensionDepth": "19.5000",
+				"DimensionHeight": "29.0000",
+				"DimensionUnit": "cm",
+				"DimensionWidth": "24.0000",
+				"LongDescription": "10\" LCD Screen, storage battery holds up to 8 hours",
+				"Name": "",
+				"PictureUrl": "/SampleServices/ESPM.svc/resources/images/HT-2001.jpg",
+				"Price": "449.990",
+				"ProductId": "HT-2001",
+				"QuantityUnit": "EA",
+				"ShortDescription": "10\" LCD Screen, storage battery holds up to 8 hours",
+				"SupplierId": null,
+				"UpdatedTimestamp": "/Date(1488978560850)/",
+				"Weight": "0.840",
+				"WeightUnit": "KG",
+				"StockDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-2001')/StockDetails"
+					}
+				},
+				"SupplierDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-2001')/SupplierDetails"
+					}
+				}
+			}, {
+				"__metadata": {
+					"id": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-6111')",
+					"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-6111')",
+					"type": "ESPM.Product",
+					"content_type": "application/octet-stream",
+					"media_src": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-6111')/$value",
+					"edit_media": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-6111')/$value"
+				},
+				"Category": "Portable Players",
+				"CategoryName": "Portable Players",
+				"CurrencyCode": "EUR",
+				"DimensionDepth": "26.0000",
+				"DimensionHeight": "6.2000",
+				"DimensionUnit": "cm",
+				"DimensionWidth": "38.0000",
+				"LongDescription": "160 GB HDD, CD-RW, DVD+R/RW, DVD-R/RW, MPEG 2 (Video-DVD), MPEG 4, VCD, SVCD, DivX, Xvid",
+				"Name": "Record Movie �",
+				"PictureUrl": "/SampleServices/ESPM.svc/resources/images/HT-6111.jpg",
+				"Price": "288.000",
+				"ProductId": "HT-6111",
+				"QuantityUnit": "EA",
+				"ShortDescription": "160 GB HDD, CD-RW, DVD+R/RW, DVD-R/RW, MPEG 2 (Video-DVD), MPEG 4, VCD, SVCD, DivX, Xvid",
+				"SupplierId": null,
+				"UpdatedTimestamp": "/Date(1488978560700)/",
+				"Weight": "3.100",
+				"WeightUnit": "KG",
+				"StockDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-6111')/StockDetails"
+					}
+				},
+				"SupplierDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-6111')/SupplierDetails"
+					}
+				}
+			}, {
+				"__metadata": {
+					"id": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1210')",
+					"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1210')",
+					"type": "ESPM.Product",
+					"content_type": "application/octet-stream",
+					"media_src": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1210')/$value",
+					"edit_media": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1210')/$value"
+				},
+				"Category": "PCs",
+				"CategoryName": "PCs",
+				"CurrencyCode": "EUR",
+				"DimensionDepth": "31.0000",
+				"DimensionHeight": "43.0000",
+				"DimensionUnit": "cm",
+				"DimensionWidth": "28.0000",
+				"LongDescription": "PC Power Station with 3,4 Ghz quad-core, 32 GB DDR3 SDRAM, feels like a PC, Windows 8 Pro",
+				"Name": "",
+				"PictureUrl": "/SampleServices/ESPM.svc/resources/images/HT-1210.jpg",
+				"Price": "2399.000",
+				"ProductId": "HT-1210",
+				"QuantityUnit": "EA",
+				"ShortDescription": "PC Power Station with 3,4 Ghz quad-core, 32 GB DDR3 SDRAM, feels like a PC, Windows 8 Pro",
+				"SupplierId": null,
+				"UpdatedTimestamp": "/Date(1488978560330)/",
+				"Weight": "2.300",
+				"WeightUnit": "KG",
+				"StockDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1210')/StockDetails"
+					}
+				},
+				"SupplierDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1210')/SupplierDetails"
+					}
+				}
+			}, {
+				"__metadata": {
+					"id": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1007')",
+					"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1007')",
+					"type": "ESPM.Product",
+					"content_type": "application/octet-stream",
+					"media_src": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1007')/$value",
+					"edit_media": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1007')/$value"
+				},
+				"Category": "PDAs",
+				"CategoryName": "PDAs",
+				"CurrencyCode": "EUR",
+				"DimensionDepth": "22.0000",
+				"DimensionHeight": "3.0000",
+				"DimensionUnit": "cm",
+				"DimensionWidth": "32.0000",
+				"LongDescription": "Digital Organizer with State-of-the-Art Storage Encryption",
+				"Name": "ITelO Vault",
+				"PictureUrl": "/SampleServices/ESPM.svc/resources/images/HT-1007.jpg",
+				"Price": "299.000",
+				"ProductId": "HT-1007",
+				"QuantityUnit": "EA",
+				"ShortDescription": "Digital Organizer with State-of-the-Art Storage Encryption",
+				"SupplierId": null,
+				"UpdatedTimestamp": "/Date(1488978558116)/",
+				"Weight": "0.200",
+				"WeightUnit": "KG",
+				"StockDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1007')/StockDetails"
+					}
+				},
+				"SupplierDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1007')/SupplierDetails"
+					}
+				}
+			}, {
+				"__metadata": {
+					"id": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-9993')",
+					"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-9993')",
+					"type": "ESPM.Product",
+					"content_type": "application/octet-stream",
+					"media_src": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-9993')/$value",
+					"edit_media": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-9993')/$value"
+				},
+				"Category": "Tablets",
+				"CategoryName": "Tablets",
+				"CurrencyCode": "EUR",
+				"DimensionDepth": "31.0000",
+				"DimensionHeight": "4.5000",
+				"DimensionUnit": "cm",
+				"DimensionWidth": "48.0000",
+				"LongDescription": "7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage, 4325 mAh battery (Up to 8 hours of active use)",
+				"Name": "ޗ鑠ܕנ瘟",
+				"PictureUrl": "/SampleServices/ESPM.svc/resources/images/HT-9993.jpg",
+				"Price": "833.000",
+				"ProductId": "HT-9993",
+				"QuantityUnit": "EA",
+				"ShortDescription": "7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage, 4325 mAh battery (Up to 8 hours of active use)",
+				"SupplierId": null,
+				"UpdatedTimestamp": "/Date(1488978561156)/",
+				"Weight": "3.800",
+				"WeightUnit": "KG",
+				"StockDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-9993')/StockDetails"
+					}
+				},
+				"SupplierDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-9993')/SupplierDetails"
+					}
+				}
+			}, {
+				"__metadata": {
+					"id": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1113')",
+					"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1113')",
+					"type": "ESPM.Product",
+					"content_type": "application/octet-stream",
+					"media_src": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1113')/$value",
+					"edit_media": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1113')/$value"
+				},
+				"Category": "Computer System Accessories",
+				"CategoryName": "Computer System Accessories",
+				"CurrencyCode": "EUR",
+				"DimensionDepth": "2.0000",
+				"DimensionHeight": "0.1000",
+				"DimensionUnit": "cm",
+				"DimensionWidth": "2.0000",
+				"LongDescription": "10 separately packed screen wipes",
+				"Name": "Bildschirmreiniger",
+				"PictureUrl": "/SampleServices/ESPM.svc/resources/images/HT-1113.jpg",
+				"Price": "2.300",
+				"ProductId": "HT-1113",
+				"QuantityUnit": "EA",
+				"ShortDescription": "10 separately packed screen wipes",
+				"SupplierId": null,
+				"UpdatedTimestamp": "/Date(1488978560056)/",
+				"Weight": "0.050",
+				"WeightUnit": "KG",
+				"StockDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1113')/StockDetails"
+					}
+				},
+				"SupplierDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1113')/SupplierDetails"
+					}
+				}
+			}, {
+				"__metadata": {
+					"id": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1052')",
+					"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1052')",
+					"type": "ESPM.Product",
+					"content_type": "application/octet-stream",
+					"media_src": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1052')/$value",
+					"edit_media": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1052')/$value"
+				},
+				"Category": "Ink Jet Printers",
+				"CategoryName": "Ink Jet Printers",
+				"CurrencyCode": "EUR",
+				"DimensionDepth": "41.0000",
+				"DimensionHeight": "28.0000",
+				"DimensionUnit": "cm",
+				"DimensionWidth": "41.0000",
+				"LongDescription": "4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB2.0, Ethernet",
+				"Name": "",
+				"PictureUrl": "/SampleServices/ESPM.svc/resources/images/HT-1052.jpg",
+				"Price": "170.000",
+				"ProductId": "HT-1052",
+				"QuantityUnit": "EA",
+				"ShortDescription": "4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB2.0, Ethernet",
+				"SupplierId": null,
+				"UpdatedTimestamp": "/Date(1488978558756)/",
+				"Weight": "18.000",
+				"WeightUnit": "KG",
+				"StockDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1052')/StockDetails"
+					}
+				},
+				"SupplierDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1052')/SupplierDetails"
+					}
+				}
+			}, {
+				"__metadata": {
+					"id": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1032')",
+					"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1032')",
+					"type": "ESPM.Product",
+					"content_type": "application/octet-stream",
+					"media_src": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1032')/$value",
+					"edit_media": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1032')/$value"
+				},
+				"Category": "Flat Screen Monitors",
+				"CategoryName": "Flat Screen Monitors",
+				"CurrencyCode": "EUR",
+				"DimensionDepth": "19.0000",
+				"DimensionHeight": "43.0000",
+				"DimensionUnit": "cm",
+				"DimensionWidth": "40.8000",
+				"LongDescription": "Optimum Hi-Resolution max. 2560 x 1440 @ 85Hz, Dot Pitch: 0.25mm",
+				"Name": "ꓥf>:h E-III",
+				"PictureUrl": "/SampleServices/ESPM.svc/resources/images/HT-1032.jpg",
+				"Price": "345.000",
+				"ProductId": "HT-1032",
+				"QuantityUnit": "EA",
+				"ShortDescription": "Optimum Hi-Resolution max. 2560 x 1440 @ 85Hz, Dot Pitch: 0.25mm",
+				"SupplierId": null,
+				"UpdatedTimestamp": "/Date(1488978558493)/",
+				"Weight": "21.000",
+				"WeightUnit": "KG",
+				"StockDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1032')/StockDetails"
+					}
+				},
+				"SupplierDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1032')/SupplierDetails"
+					}
+				}
+			}, {
+				"__metadata": {
+					"id": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1081')",
+					"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1081')",
+					"type": "ESPM.Product",
+					"content_type": "application/octet-stream",
+					"media_src": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1081')/$value",
+					"edit_media": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1081')/$value"
+				},
+				"Category": "Scanners",
+				"CategoryName": "Scanners",
+				"CurrencyCode": "EUR",
+				"DimensionDepth": "43.0000",
+				"DimensionHeight": "7.0000",
+				"DimensionUnit": "cm",
+				"DimensionWidth": "31.0000",
+				"LongDescription": "Flatbed scanner - 9.600 נ9.600 dpi - 216 x 297 mm - SCSI for backward compatibility",
+				"Name": "kϪ",
+				"PictureUrl": "/SampleServices/ESPM.svc/resources/images/HT-1081.jpg",
+				"Price": "89.000",
+				"ProductId": "HT-1081",
+				"QuantityUnit": "EA",
+				"ShortDescription": "Flatbed scanner - 9.600 נ9.600 dpi - 216 x 297 mm - SCSI for backward compatibility",
+				"SupplierId": null,
+				"UpdatedTimestamp": "/Date(1488978559360)/",
+				"Weight": "2.400",
+				"WeightUnit": "KG",
+				"StockDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1081')/StockDetails"
+					}
+				},
+				"SupplierDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1081')/SupplierDetails"
+					}
+				}
+			}, {
+				"__metadata": {
+					"id": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-8002')",
+					"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-8002')",
+					"type": "ESPM.Product",
+					"content_type": "application/octet-stream",
+					"media_src": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-8002')/$value",
+					"edit_media": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-8002')/$value"
+				},
+				"Category": "Notebooks",
+				"CategoryName": "Notebooks",
+				"CurrencyCode": "EUR",
+				"DimensionDepth": "21.0000",
+				"DimensionHeight": "4.1000",
+				"DimensionUnit": "cm",
+				"DimensionWidth": "38.0000",
+				"LongDescription": "Notebook with 2,80 GHz quad core, 4 GB DDR3 SDRAM, 1000 GB Hard Disc, Windows 8",
+				"Name": "ITelO FlexTop I9100",
+				"PictureUrl": "/SampleServices/ESPM.svc/resources/images/HT-8002.jpg",
+				"Price": "1199.000",
+				"ProductId": "HT-8002",
+				"QuantityUnit": "EA",
+				"ShortDescription": "Notebook with 2,80 GHz quad core, 4 GB DDR3 SDRAM, 1000 GB Hard Disc, Windows 8",
+				"SupplierId": null,
+				"UpdatedTimestamp": "/Date(1488978561010)/",
+				"Weight": "3.500",
+				"WeightUnit": "KG",
+				"StockDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-8002')/StockDetails"
+					}
+				},
+				"SupplierDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-8002')/SupplierDetails"
+					}
+				}
+			}, {
+				"__metadata": {
+					"id": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1257')",
+					"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1257')",
+					"type": "ESPM.Product",
+					"content_type": "application/octet-stream",
+					"media_src": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1257')/$value",
+					"edit_media": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1257')/$value"
+				},
+				"Category": "Tablets",
+				"CategoryName": "Tablets",
+				"CurrencyCode": "EUR",
+				"DimensionDepth": "31.0000",
+				"DimensionHeight": "4.5000",
+				"DimensionUnit": "cm",
+				"DimensionWidth": "48.0000",
+				"LongDescription": "10.5-inch Multitouch HD Screen (1280 x 800), 16GB Internal Memory, Wireless N Wi-Fi; Bluetooth, GPS Enabled, 1GHz Dual-Core Processor",
+				"Name": "Cepat Tablet 10.5",
+				"PictureUrl": "/SampleServices/ESPM.svc/resources/images/HT-1257-DIAGONAL.jpg",
+				"Price": "549.000",
+				"ProductId": "HT-1257",
+				"QuantityUnit": "EA",
+				"ShortDescription": "10.5-inch Multitouch HD Screen (1280 x 800), 16GB Internal Memory, Wireless N Wi-Fi; Bluetooth, GPS Enabled, 1GHz Dual-Core Processor",
+				"SupplierId": null,
+				"UpdatedTimestamp": "/Date(1488978561283)/",
+				"Weight": "2.800",
+				"WeightUnit": "KG",
+				"StockDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1257')/StockDetails"
+					}
+				},
+				"SupplierDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1257')/SupplierDetails"
+					}
+				}
+			}, {
+				"__metadata": {
+					"id": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-7010')",
+					"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-7010')",
+					"type": "ESPM.Product",
+					"content_type": "application/octet-stream",
+					"media_src": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-7010')/$value",
+					"edit_media": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-7010')/$value"
+				},
+				"Category": "PDAs",
+				"CategoryName": "PDAs",
+				"CurrencyCode": "EUR",
+				"DimensionDepth": "13.0000",
+				"DimensionHeight": "12.1000",
+				"DimensionUnit": "cm",
+				"DimensionWidth": "8.1000",
+				"LongDescription": "Our new multifunctional Handheld with phone function in silver",
+				"Name": "Silverberry",
+				"PictureUrl": "/SampleServices/ESPM.svc/resources/images/HT-7010.jpg",
+				"Price": "549.000",
+				"ProductId": "HT-7010",
+				"QuantityUnit": "EA",
+				"ShortDescription": "Our new multifunctional Handheld with phone function in silver",
+				"SupplierId": null,
+				"UpdatedTimestamp": "/Date(1488978560563)/",
+				"Weight": "0.500",
+				"WeightUnit": "KG",
+				"StockDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-7010')/StockDetails"
+					}
+				},
+				"SupplierDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-7010')/SupplierDetails"
+					}
+				}
+			}, {
+				"__metadata": {
+					"id": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1102')",
+					"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1102')",
+					"type": "ESPM.Product",
+					"content_type": "application/octet-stream",
+					"media_src": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1102')/$value",
+					"edit_media": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1102')/$value"
+				},
+				"Category": "Software",
+				"CategoryName": "Software",
+				"CurrencyCode": "EUR",
+				"DimensionDepth": "6.0000",
+				"DimensionHeight": "27.0000",
+				"DimensionUnit": "cm",
+				"DimensionWidth": "16.0000",
+				"LongDescription": "Complete package, 1 User, Network Software Utilities, Useful Applications and Documentation",
+				"Name": "",
+				"PictureUrl": "/SampleServices/ESPM.svc/resources/images/HT-1102.jpg",
+				"Price": "69.000",
+				"ProductId": "HT-1102",
+				"QuantityUnit": "EA",
+				"ShortDescription": "Complete package, 1 User, Network Software Utilities, Useful Applications and Documentation",
+				"SupplierId": null,
+				"UpdatedTimestamp": "/Date(1488978559780)/",
+				"Weight": "0.800",
+				"WeightUnit": "KG",
+				"StockDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1102')/StockDetails"
+					}
+				},
+				"SupplierDetails": {
+					"__deferred": {
+						"uri": "https://mobileexec-ad6f2ef40.hana.ondemand.com:443/SampleServices/ESPM.svc/Products('HT-1102')/SupplierDetails"
+					}
+				}
+			}]
+		}
+	}
+}
